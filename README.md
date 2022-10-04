@@ -30,8 +30,9 @@ Inheritance has been added in the following way:
 
 Fungi now spawn and consume water, appear visible on the Entity map  
 Trees are now made to interact with the medium
+Some adjustments have been made to make the simulation faster and evolve for longer  
 
-No animals & corpses are spawned, as they need some bugfixing and modification of their methods
+No animals & corpses are spawned, as they need some bugfixing and modification of their methods  
 Running the program will print out the existing landscape inside the terminal in multiple sections:  
 ![Program execution screenie](/images/Terminal.png)  
 
